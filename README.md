@@ -39,13 +39,13 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-web-app.git  
+   git clone https:(https://github.com/Ved-Thote/PRODIGY_WD_03)
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd tic-tac-toe-web-app  
+   cd PRODIGY_WD_03 
    ```
 
 3. **Run the Application**:
