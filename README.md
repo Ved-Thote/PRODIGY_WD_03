@@ -39,7 +39,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 1. **Clone the Repository**:
 
    ```bash
-   git clone https:(https://github.com/Ved-Thote/PRODIGY_WD_03)
+   git clone https:https://github.com/Ved-Thote/PRODIGY_WD_03.git
    ```
 
 2. **Navigate to the Project Directory**:
