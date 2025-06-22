@@ -1,10 +1,7 @@
-# README for Tic-Tac-Toe Web Application
-
 ## 📌 Project Overview
 
 This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**, and **JavaScript**. It allows users to engage in a classic game of Tic-Tac-Toe with interactive gameplay, real-time updates, and win detection.
 
----
 
 ## 🎯 Features
 
@@ -27,7 +24,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
    * Highlights active player's turn.
    * Reset button to restart the game anytime.
 
----
+
 
 ## 🚀 Technologies Used
 
@@ -35,7 +32,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 * **CSS**: For styling the interface, animations, and responsiveness.
 * **JavaScript**: For handling game logic, user interactions, and state management.
 
----
+
 
 ## 📋 Setup Instructions
 
@@ -55,7 +52,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 
    * Open the `index.html` file in your preferred web browser.
 
----
+
 
 ## 🎮 How to Play
 
@@ -64,7 +61,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 3. The first player to align three of their markers in a row (horizontally, vertically, or diagonally) wins.
 4. If all cells are filled and no player has aligned three markers, the game ends in a tie.
 
----
+
 
 ## 🛠️ Future Enhancements
 
@@ -73,7 +70,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 * **Themes**: Provide customizable themes for the board and game interface.
 * **Sound Effects**: Enhance interactivity with audio feedback.
 
----
+
 
 ## 🙌 Contributing
 
