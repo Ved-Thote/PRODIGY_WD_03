@@ -1,8 +1,12 @@
-##📌 Project Overview
+# README for Tic-Tac-Toe Web Application
+
+## 📌 Project Overview
 
 This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**, and **JavaScript**. It allows users to engage in a classic game of Tic-Tac-Toe with interactive gameplay, real-time updates, and win detection.
 
-🎯 Features
+---
+
+## 🎯 Features
 
 1. **Player vs. Player Mode**:
 
@@ -23,15 +27,15 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
    * Highlights active player's turn.
    * Reset button to restart the game anytime.
 
-
+---
 
 ## 🚀 Technologies Used
 
-  * **HTML**: For structuring the game grid and layout.
-  * **CSS**: For styling the interface, animations, and responsiveness.
-  * **JavaScript**: For handling game logic, user interactions, and state management.
+* **HTML**: For structuring the game grid and layout.
+* **CSS**: For styling the interface, animations, and responsiveness.
+* **JavaScript**: For handling game logic, user interactions, and state management.
 
-
+---
 
 ## 📋 Setup Instructions
 
@@ -51,6 +55,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 
    * Open the `index.html` file in your preferred web browser.
 
+---
 
 ## 🎮 How to Play
 
@@ -59,6 +64,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 3. The first player to align three of their markers in a row (horizontally, vertically, or diagonally) wins.
 4. If all cells are filled and no player has aligned three markers, the game ends in a tie.
 
+---
 
 ## 🛠️ Future Enhancements
 
@@ -66,6 +72,8 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 * **Scoreboard**: Track the number of wins for each player.
 * **Themes**: Provide customizable themes for the board and game interface.
 * **Sound Effects**: Enhance interactivity with audio feedback.
+
+---
 
 ## 🙌 Contributing
 
@@ -86,6 +94,5 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
    git push origin feature-name  
    ```
 
-
-
+---
 
