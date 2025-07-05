@@ -50,7 +50,7 @@ This project is a **Tic-Tac-Toe web application** built using **HTML**, **CSS**,
 
 3. **Run the Application**:
 
-   * Open the `index.html` file in your preferred web browser.
+   * Open the `ticTacToe.html` file in your preferred web browser.
 
 
 
